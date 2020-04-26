@@ -1,0 +1,6 @@
+I'd love to help converting to Python3, but I don't know how to contact you. My email is toddobryan@gmail.com
+(and sorry for contacting you this way). Either email me, or set up a gitter room, or whatever, and I'd be
+happy to help.
+
+I haven't used Python much since Python 2, so I'll need some guidance, but I'm happy to do what you tell me
+in order to get Gourmet working on Ubuntu 20.04.
